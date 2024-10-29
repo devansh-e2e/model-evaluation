@@ -1,25 +1,36 @@
-import torch
 import json
-import transformers
-from transformers import BitsAndBytesConfig
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from deepeval.models import DeepEvalBaseLLM
 from pydantic import BaseModel
+import torch
+import transformers
 from lmformatenforcer import JsonSchemaParser
 from lmformatenforcer.integrations.transformers import (
     build_transformers_prefix_allowed_tokens_fn,
 )
+from transformers import BitsAndBytesConfig
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+from deepeval.models import DeepEvalBaseLLM
 
 
-class CustomLlama3_8B(DeepEvalBaseLLM):
+class CustomInferenceModel(DeepEvalBaseLLM):
     def __init__(self):
+        model_id = 'prometheus-eval/prometheus-8x7b-v2.0'
+        quantization_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_compute_dtype=torch.float16,
+            bnb_4bit_quant_type="fp4",
+            bnb_4bit_use_double_quant=True,
+        )
+
         model = AutoModelForCausalLM.from_pretrained(
-            "meta-llama/Meta-Llama-3-8B-Instruct",
+            model_id,
             device_map="auto",
+            # quantization_config=quantization_config,
         )
         tokenizer = AutoTokenizer.from_pretrained(
-            "meta-llama/Meta-Llama-3-8B-Instruct"
+            model_id
         )
+
         self.model = model
         self.tokenizer = tokenizer
 
@@ -34,16 +45,23 @@ class CustomLlama3_8B(DeepEvalBaseLLM):
             tokenizer=self.tokenizer,
             use_cache=True,
             device_map="auto",
-            max_new_tokens=250,
+            max_new_tokens=2500,
+            do_sample=True,
+            top_k=5,
+            num_return_sequences=1,
+            eos_token_id=self.tokenizer.eos_token_id,
+            pad_token_id=self.tokenizer.eos_token_id,
         )
+
         # Create parser required for JSON confinement using lmformatenforcer
         parser = JsonSchemaParser(schema.model_json_schema())
         prefix_function = build_transformers_prefix_allowed_tokens_fn(
             pipeline.tokenizer, parser
         )
+
         # Output and load valid JSON
         output_dict = pipeline(prompt, prefix_allowed_tokens_fn=prefix_function)
-        output = output_dict[0]["generated_text"][len(prompt) :]
+        output = output_dict[0]["generated_text"][len(prompt):]
         json_result = json.loads(output)
 
         # Return valid JSON object according to the schema DeepEval supplied
@@ -53,4 +71,4 @@ class CustomLlama3_8B(DeepEvalBaseLLM):
         return self.generate(prompt, schema)
 
     def get_model_name(self):
-        return "Llama-3 8B"
+        return "Prometheus-eval"

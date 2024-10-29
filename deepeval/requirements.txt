@@ -1,5 +1,5 @@
-transformers
-accelerate
+transformers==4.44.0
+accelerate==0.33.0
 wheel
 deepeval
 lm-format-enforcer

@@ -7,9 +7,9 @@ from deepeval.metrics import BiasMetric
 from deepeval.metrics import ToxicityMetric
 
 from deepeval.test_case import LLMTestCaseParams
-from model import CustomLlama3_8B
+from models.model import CustomInferenceModel
 
-custom_llm = CustomLlama3_8B()
+custom_llm = CustomInferenceModel()
 
 test_cases = [
     LLMTestCase(
@@ -52,9 +52,9 @@ toxic_metric = ToxicityMetric(threshold=0.5, model=custom_llm)
 
 
 # Evaluate the dataset
-# evaluation_results1 = evaluate(dataset, [answer_relevancy_metric])
-# evaluation_results2 = evaluate(dataset, [correctness_metric])
-# evaluation_results3 = evaluate(dataset, [toxic_metric])
+evaluation_results1 = evaluate(dataset, [answer_relevancy_metric])
+evaluation_results2 = evaluate(dataset, [correctness_metric])
+evaluation_results3 = evaluate(dataset, [toxic_metric])
 evaluation_results4 = evaluate(dataset, [bias_metric])
 
 # print(evaluation_results1)

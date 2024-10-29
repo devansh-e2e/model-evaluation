@@ -1,0 +1,13 @@
+textstat
+evaluate
+openai
+mlflow
+wheel
+transformers
+torch
+torchvision
+accelerate
+setuptools
+nltk
+absl-py
+rouge_score
