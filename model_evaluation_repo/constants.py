@@ -205,7 +205,6 @@ BASE_MODEL_TO_GENAI_MODEL_MAPPING = {
     MISTRAL_7B_V3_INSTRUCT: GENAI_MISTRAL_7B_V3_INSTRUCT,
 }
 GENAI_API_BASE_URL = "https://infer.e2enetworks.net/project/p-{project_id}/genai/{genai_model_id}/v1"
-DATASET_DOWNLOAD_PATH = '/mnt/workspace/custom_dataset/'
 EOS_BUCKET = 'eos_bucket'
 HUGGINGFACE = 'huggingface'
-ALLOWED_FILE_TYPES = ['csv', 'json', 'jsonl', 'parquet']
+ALLOWED_FILE_TYPES = ['.csv', '.json', '.jsonl', '.parquet']

@@ -16,12 +16,12 @@ def main(args):
     logger.info("Starting evaluation job with the following script parameters:")
     logger.info(args)
 
+    tir.init()
+
     # Load the dataset to evaluate
     dataset_loader = DatasetLoader(args)
     dataset = dataset_loader.load()
     logger.info(f"Dataset loaded with {dataset.num_rows} entries.")
-
-    tir.init()
 
     # Get the Genai client to use as a Judge
     client = get_genai_client(args.base_model_id, args.project_id, args.user_auth_token)

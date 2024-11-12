@@ -2,7 +2,7 @@ from datasets import load_dataset
 import logging
 import sys
 
-from constants import DATASET_DOWNLOAD_PATH, EOS_BUCKET, ALLOWED_FILE_TYPES
+from constants import EOS_BUCKET, ALLOWED_FILE_TYPES
 from e2enetworks.cloud.tir import Datasets
 from helpers import get_dataset_format
 
@@ -24,8 +24,7 @@ class DatasetLoader():
     def load(self):
         if self.dataset_type != EOS_BUCKET:
             return self._load_huggingface_dataset()
-        dataset_path = f"{DATASET_DOWNLOAD_PATH}{self.dataset_path}" if self.dataset_path else DATASET_DOWNLOAD_PATH
-        logger.info(f"Loading custom dataset from {dataset_path}")
+        logger.info(f"Loading custom dataset from {self.dataset_path}")
         dataset = self._load_custom_dataset()
         if self.num_rows_limit > 0:
             dataset = dataset.select(range(self.num_rows_limit))
@@ -37,7 +36,7 @@ class DatasetLoader():
             sys.exit(f"Unsupported file type: {file_type}")
 
         try:
-            self.dataset.load_dataset_file(dataset_id=self.dataset_bucket_id, file_path=self.dataset_path)
+            return self.dataset.load_dataset_file(dataset_id=self.dataset_bucket_id, file_path=self.dataset_path)
         except Exception as e:
             logger.error(f"ERROR_IN_LOADING_DATASET: {e}")
             sys.exit(e)
