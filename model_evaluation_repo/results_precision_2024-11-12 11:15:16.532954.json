@@ -1,0 +1,1319 @@
+{
+    "1": {
+        "score": 0,
+        "reason": "The response does not provide a calculation or formula to determine the area of the triangle, and instead gives a final answer without explanation."
+    },
+    "2": {
+        "score": 5,
+        "reason": "The correct answer can be found by setting up equations based on the given information and solving for the original radius."
+    },
+    "3": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, matching the known mathematical ratio of the diagonals of a regular hexagon."
+    },
+    "4": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "5": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "6": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, and it correctly expresses the area in simplest radical form."
+    },
+    "7": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "8": {
+        "score": 0,
+        "reason": "The response provided is highly imprecise and does not address the question asked, as it only gives the volume of the prism instead of asking for it."
+    },
+    "9": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "10": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "11": {
+        "score": 0,
+        "reason": "The answer provided is highly incorrect and does not follow the given information."
+    },
+    "12": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "13": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, given the information provided about the trisection of $\\overline{AD}$ and the midpoint $M$."
+    },
+    "14": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly expressing the perimeter of the equilateral triangle in simplest radical form."
+    },
+    "15": {
+        "score": 5,
+        "reason": "The correct answer can be determined using similar figures, and the ratio of the areas of the cross sections is equal to the square of the ratio of their distances from the apex."
+    },
+    "16": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "17": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it only provides a numerical answer without explaining the calculation or providing any relevant details about the trapezoid."
+    },
+    "18": {
+        "score": 5,
+        "reason": "The length of the minor axis of the ellipse is the diameter of the right circular cylinder, which is $2$; the length of the major axis is $1.5$ times the length of the minor axis, so the length of the major axis is $1.5 \\times 2 = 3$."
+    },
+    "19": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "20": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalizations."
+    },
+    "21": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "22": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "23": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "24": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "25": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "26": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "27": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "28": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a numerical answer to the problem."
+    },
+    "29": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "30": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "31": {
+        "score": 5,
+        "reason": "The calculation of the determinant is correct and the final answer is accurately derived from the given information."
+    },
+    "32": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "33": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "34": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "35": {
+        "score": 0,
+        "reason": "The answer provided is incorrect as it does not match the actual area of the triangle."
+    },
+    "36": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "37": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "38": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "39": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "40": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "41": {
+        "score": 0,
+        "reason": "The answer provided is highly imprecise and vague, lacking specificity, as it only gives the final projection vector without explaining the calculation or providing the formula used."
+    },
+    "42": {
+        "score": 5,
+        "reason": "The determinant is calculated correctly using cofactor expansion, and the resulting expression is simplified to a constant value."
+    },
+    "43": {
+        "score": 0,
+        "reason": "The answer provided is highly imprecise and vague, lacking specificity."
+    },
+    "44": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "45": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "46": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, matching the expected format for the focus of a parabola given by the equation $y = ax^2 + bx$."
+    },
+    "47": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "48": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "49": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "50": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, following the correct polynomial long division process."
+    },
+    "51": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "52": {
+        "score": 0,
+        "reason": "The response does not provide a clear or precise solution to the equation, instead offering an unrelated numerical value."
+    },
+    "53": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "54": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "55": {
+        "score": 5,
+        "reason": "The calculation is correct and the expression is accurately expanded and simplified."
+    },
+    "56": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "57": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "58": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "59": {
+        "score": 2,
+        "reason": "The answer provided is somewhat precise but contains unnecessary generalizations, as it does not provide a clear method for finding the exact value of $a$."
+    },
+    "60": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "61": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "62": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "63": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "64": {
+        "score": 5,
+        "reason": "The value of $k$ is correctly calculated to ensure the line is tangent to the parabola."
+    },
+    "65": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "66": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "67": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "68": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "69": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "70": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "71": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "72": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, as it correctly states that there are 21 possible values for $\\lceil x^2 \\rceil$."
+    },
+    "73": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "74": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly stating the total number of ways to divide a day into n periods of m seconds."
+    },
+    "75": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "76": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "77": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "78": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "79": {
+        "score": 0,
+        "reason": "The response does not address the question's specific conditions, as a number cannot be both prime and a multiple of 7."
+    },
+    "80": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "81": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "82": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "83": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "84": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly stating the number of two-digit positive integers congruent to 1 (mod 3)."
+    },
+    "85": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly stating the number of positive integers less than 1000 that are congruent to 6 (mod 11)."
+    },
+    "86": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "87": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "88": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "89": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "90": {
+        "score": 4,
+        "reason": "The response provides a clear definition of an abundant number and identifies the smallest abundant number not divisible by 6, but it lacks a direct calculation or explanation of the process used to determine this number."
+    },
+    "91": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "92": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "93": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "94": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, as only perfect squares have an odd number of positive factors."
+    },
+    "95": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "96": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "97": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying a positive integer divisible by 14 within the specified range of square roots."
+    },
+    "98": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "99": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "100": {
+        "score": 4,
+        "reason": "The response provides the correct sum of the digits of the base-2 expression for $222_{10}$, but it lacks the actual base-2 expression itself."
+    },
+    "101": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "102": {
+        "score": 5,
+        "reason": "The units digit of the product of any two numbers is the units digit of the product of their units digits. In base-6, the units digit of 217 is 1 and the units digit of 45 is 5, so the units digit of their product is 1*5 = 5, but since the question asks for the units digit in base-6, we need to convert 5 to base-6, which is 5."
+    },
+    "103": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "104": {
+        "score": 0,
+        "reason": "The response does not address the question asked, instead providing an unrelated answer."
+    },
+    "105": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "106": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "107": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "108": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, as the product of the divisors of 42 indeed has 3 distinct prime factors (2, 3, and 7)."
+    },
+    "109": {
+        "score": 2,
+        "reason": "The response contains the correct answer but lacks the base conversion process to support the calculation."
+    },
+    "110": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "111": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "112": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly stating the total count of two-digit positive integers with at least one 7 as a digit."
+    },
+    "113": {
+        "score": 0,
+        "reason": "The response does not provide a clear explanation or reasoning for its answer."
+    },
+    "114": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "115": {
+        "score": 2,
+        "reason": "The response contains unnecessary generalizations, as the actual calculation for combinations is not provided."
+    },
+    "116": {
+        "score": 0,
+        "reason": "The response does not provide a clear or logical calculation to determine the maximum number of stamps that could be purchased with $32, and instead provides a numerical answer without explanation."
+    },
+    "117": {
+        "score": 4,
+        "reason": "The solution provided is correct and focused, with only minor extraneous details."
+    },
+    "118": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "119": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "120": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it only provides a single number without explaining the underlying calculation or context."
+    },
+    "121": {
+        "score": 4,
+        "reason": "The answer provided is correct, but it lacks a clear explanation of the steps taken to solve the inequality."
+    },
+    "122": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, as it does not provide a clear calculation or unit conversion to arrive at the answer."
+    },
+    "123": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "124": {
+        "score": 2,
+        "reason": "The response contains the correct arithmetic mean, but it is expressed as a common fraction instead of being simplified or calculated step-by-step."
+    },
+    "125": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "126": {
+        "score": 4,
+        "reason": "The response provides the correct product of the LCM and GCD of 8 and 6, but it does not explicitly state the values of LCM and GCD."
+    },
+    "127": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "128": {
+        "score": 0,
+        "reason": "The answer provided is highly incorrect and does not follow the principle of inclusion-exclusion."
+    },
+    "129": {
+        "score": 4,
+        "reason": "The calculation of the required skating time on the ninth day to achieve an average of 85 minutes per day is correct, but the provided solution is not explicitly stated."
+    },
+    "130": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "131": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "132": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "133": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, as it does not provide the correct answer and lacks specificity about the method used to find the greatest common divisor."
+    },
+    "134": {
+        "score": 3,
+        "reason": "The answer provided is mostly precise, as it correctly calculates the minimum number of words needed to achieve a 85% score, but it does not account for the fact that the exam grade is based on the percentage of words recalled correctly, not the total number of words."
+    },
+    "135": {
+        "score": 4,
+        "reason": "The answer provided is correct, but the response lacks a clear explanation of the steps taken to solve the inequality."
+    },
+    "136": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "137": {
+        "score": 4,
+        "reason": "The response provides the correct sum of the positive divisors of 18, but includes unnecessary information."
+    },
+    "138": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "139": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "140": {
+        "score": 2,
+        "reason": "The response provides a correct value for y, but it is not derived from the given equations and appears to be an incorrect solution."
+    },
+    "141": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "142": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "143": {
+        "score": 5,
+        "reason": "The calculation of the total number of men and women wearing sunglasses is accurate and correctly applied."
+    },
+    "144": {
+        "score": 5,
+        "reason": "The answer can be calculated using the principle of inclusion-exclusion, where the total number of players taking at least one of the sciences is the sum of the players taking each science, minus the players taking both sciences."
+    },
+    "145": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "146": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying the possible last digits of numbers divisible by 5 as 0 and 5."
+    },
+    "147": {
+        "score": 2,
+        "reason": "The response is somewhat precise, as it identifies a prime factor, but it lacks the specific identification of the largest prime factor."
+    },
+    "148": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "149": {
+        "score": 0,
+        "reason": "The answer provided is incorrect, as the sum of the probabilities of selecting a red, orange, and yellow jelly bean should be 1, not 0.3."
+    },
+    "150": {
+        "score": 0,
+        "reason": "The response does not provide a direct answer to the question, but rather an output value that does not match the expected format of the question."
+    },
+    "151": {
+        "score": 0,
+        "reason": "The answer provided is incorrect and does not follow the given ratio."
+    },
+    "152": {
+        "score": 5,
+        "reason": "The probability calculation is accurate and correctly applied to find the chance of both buttons being red."
+    },
+    "153": {
+        "score": 2,
+        "reason": "The response partially solves the equation but includes unnecessary simplification and does not provide the correct steps or solution."
+    },
+    "154": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly applying the formula for calculating the number of diagonals in a polygon."
+    },
+    "155": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalization, as the correct calculation is 1 + 6 - 4 + 5 = 8."
+    },
+    "156": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "157": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "158": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "159": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalization, as the correct answer is not explicitly stated as an integer value."
+    },
+    "160": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "161": {
+        "score": 4,
+        "reason": "The answer provided is correct, but it does not fully address the question as it only gives a single value of $n$ that satisfies the given inequalities, rather than explaining how to find the value or providing a range of possible values."
+    },
+    "162": {
+        "score": 2,
+        "reason": "The response provides a specific answer but lacks the necessary steps to derive it, and the calculation of the diagonal is not explicitly mentioned."
+    },
+    "163": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly calculating the number of combinations that satisfy Bill's order requirements."
+    },
+    "164": {
+        "score": 2,
+        "reason": "The answer provided is somewhat precise but contains unnecessary generalization, as the correct formula for the sum of interior angles in a polygon is not mentioned."
+    },
+    "165": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "166": {
+        "score": 2,
+        "reason": "The response provides a ratio of perimeters without explicitly calculating it, and the answer format is not in the requested form."
+    },
+    "167": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a clear step-by-step solution to solve for n."
+    },
+    "168": {
+        "score": 0,
+        "reason": "The answer provided is highly imprecise and vague, lacking specificity, as it does not address the question about distinct arrangements of the letters in the word \"basic\"."
+    },
+    "169": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "170": {
+        "score": 0,
+        "reason": "The answer provided is highly imprecise and vague, lacking specificity, as it does not address the actual length of the wire."
+    },
+    "171": {
+        "score": 4,
+        "reason": "The answer provided is close to the fraction of medals won by Team Canada, but it is slightly higher than the actual value."
+    },
+    "172": {
+        "score": 0,
+        "reason": "The answer provided is highly incorrect and does not follow the given information."
+    },
+    "173": {
+        "score": 4,
+        "reason": "The response provides a precise count of multiples of 10 between 9 and 101, but it does not explicitly state the range or provide a clear explanation."
+    },
+    "174": {
+        "score": 0,
+        "reason": "The response does not provide a clear calculation or method to determine the number of apples needed to equal the weight of 28 oranges."
+    },
+    "175": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "176": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, as the decimal expansion of $\\frac{5}{7}$ is a well-known repeating decimal with a block of 6 digits."
+    },
+    "177": {
+        "score": 5,
+        "reason": "The calculation of albums in either Andrew's or John's collection, but not both, is accurate and correctly applied."
+    },
+    "178": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "179": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "180": {
+        "score": 5,
+        "reason": "The calculation is accurate, as each team plays 8 games (3 against each of the other 8 teams), and there are 9 teams, resulting in a total of 9 * 8 = 72 games, but since each game is counted twice (once for each team), the total is 72 / 2 = 36, then multiplied by 3 (the number of games each team plays against each other team), resulting in 36 * 3 = 108 games."
+    },
+    "181": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "182": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "183": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "184": {
+        "score": 0,
+        "reason": "The response does not provide a clear method or calculation for determining the number of arrangements, and the answer is not justified."
+    },
+    "185": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "186": {
+        "score": 3,
+        "reason": "The response provides a specific numerical answer, but it lacks a clear explanation of the underlying mathematical concept or formula used to arrive at the answer."
+    },
+    "187": {
+        "score": 2,
+        "reason": "The response provides a numerical answer but lacks the precise formula or explanation for the calculation."
+    },
+    "188": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "189": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "190": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "191": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "192": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a clear explanation or definition of what is meant by \"prime divisors\" and does not address the actual question."
+    },
+    "193": {
+        "score": 5,
+        "reason": "The answer is accurate and based on the fundamental principle of single-elimination tournaments, where each game eliminates one player, and only the winner advances."
+    },
+    "194": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying the range of possible differences as all integers from 1 to 15."
+    },
+    "195": {
+        "score": 4,
+        "reason": "The answer provided is correct, but it lacks a clear explanation of the calculation process, which involves multiplying the number of choices for each position: 9 choices for the quarterback, 9 choices for the running back, 3 choices for the offensive lineman, and 9 choices for the wide receiver."
+    },
+    "196": {
+        "score": 5,
+        "reason": "The solution is accurate and concise, correctly applying the binomial probability formula to find the probability of getting heads exactly 3 times in 5 flips."
+    },
+    "197": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "198": {
+        "score": 5,
+        "reason": "The answer is calculated correctly as 2 * (1/30) * (29/30) = 58/900 = 0.064444... which is then converted to a percentage and rounded to the nearest tenth."
+    },
+    "199": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalization, as the actual calculation of the number of trailing zeros is required to provide an accurate answer."
+    },
+    "200": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "201": {
+        "score": 2,
+        "reason": "The response is somewhat precise, as it provides a specific number, but it lacks the context that the smallest three-digit number in Pascal's triangle is actually 100, which is the first number in the 10th row of Pascal's triangle."
+    },
+    "202": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalizations, as it does not provide a clear explanation for why 4 terms are odd in the expansion of $(m+n)^6$."
+    },
+    "203": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "204": {
+        "score": 5,
+        "reason": "The calculation of expected worth is accurate and correctly applied."
+    },
+    "205": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a clear mathematical explanation or formula for calculating the probability of flipping a tail on the next flip."
+    },
+    "206": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "207": {
+        "score": 2,
+        "reason": "The response provides a precise probability, but it lacks a clear explanation of the calculation or context, and the format of the answer is not conventional."
+    },
+    "208": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a clear mathematical derivation or formula for calculating the area."
+    },
+    "209": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "210": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, as the only possible value for k that makes both roots prime is when the roots are 2 and 61, resulting in k = 2 * 61 = 122."
+    },
+    "211": {
+        "score": 4,
+        "reason": "The function is continuous if the two parts of the piecewise function meet at the boundary point $x=3$, meaning that $f(3)$ must be the same for both parts of the function."
+    },
+    "212": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "213": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "214": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "215": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "216": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a logical or mathematical basis for the answer."
+    },
+    "217": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "218": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "219": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "220": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying the integer values of $x$ that satisfy the given condition."
+    },
+    "221": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it fails to provide the actual length of the segment or any relevant details."
+    },
+    "222": {
+        "score": 0,
+        "reason": "The response does not address the problem directly, instead providing an incorrect answer."
+    },
+    "223": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "224": {
+        "score": 3,
+        "reason": "The response is mostly precise, as it correctly identifies the relationship between the given equations, but it does not provide a direct solution for $x-y$."
+    },
+    "225": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "226": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying the y-intercept as (0,5)."
+    },
+    "227": {
+        "score": 5,
+        "reason": "The calculation of the number of grains on the first 8 squares combined is correct, and the subsequent subtraction to find the difference is also accurate."
+    },
+    "228": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "229": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "230": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "231": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "232": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "233": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "234": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "235": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "236": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "237": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "238": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "239": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "240": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "241": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "242": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "243": {
+        "score": 2,
+        "reason": "The response contains a correct numerical answer but lacks a clear mathematical explanation or calculation to support the answer."
+    },
+    "244": {
+        "score": 0,
+        "reason": "The response does not provide a clear explanation of the concept of a vertical asymptote or how it relates to the given function, and instead gives a numerical value without justification."
+    },
+    "245": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "246": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "247": {
+        "score": 0,
+        "reason": "The response does not address the problem and instead provides an unrelated numerical value."
+    },
+    "248": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "249": {
+        "score": 0,
+        "reason": "The response does not provide a clear mathematical calculation or reasoning to support the given answer."
+    },
+    "250": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "251": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "252": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "253": {
+        "score": 4,
+        "reason": "The answer provided is mostly precise, with the correct combination of like terms, but lacks the explicit simplification of the polynomial."
+    },
+    "254": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "255": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "256": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "257": {
+        "score": 5,
+        "reason": "The calculation is correct and the answer is derived from a logical and consistent application of the given information."
+    },
+    "258": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "259": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "260": {
+        "score": 5,
+        "reason": "The solution provided is accurate and concise."
+    },
+    "261": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "262": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "263": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "264": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "265": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "266": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "267": {
+        "score": 1,
+        "reason": "The response is imprecise, as it only provides the final numerical answer without explaining the calculation or formula used to find the distance."
+    },
+    "268": {
+        "score": 5,
+        "reason": "The solution correctly identifies the piecewise function and solves for x in both cases, resulting in two possible values of x, which are then summed to obtain the final answer."
+    },
+    "269": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "270": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "271": {
+        "score": 2,
+        "reason": "The response provides the center of the circle, but it lacks the necessary mathematical derivation or explanation to support the answer."
+    },
+    "272": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "273": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "274": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "275": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "276": {
+        "score": 1,
+        "reason": "The response is imprecise, as it only provides a single value without explaining the underlying mathematical concept or process that led to the solution."
+    },
+    "277": {
+        "score": 0,
+        "reason": "The response does not provide a clear or concise solution to the problem, and instead gives a numerical answer without showing the necessary steps to derive it."
+    },
+    "278": {
+        "score": 2,
+        "reason": "The response contains the correct value of $x$, but it is not clearly derived from the equation."
+    },
+    "279": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with a clear calculation that correctly identifies the integers satisfying the given inequality."
+    },
+    "280": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "281": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "282": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with a clear calculation that results in a specific value."
+    },
+    "283": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "284": {
+        "score": 2,
+        "reason": "The response is somewhat precise, as it correctly identifies the expanded form of the given expression, but it lacks the full expansion and includes an incorrect simplification of the $x^2+4$ term."
+    },
+    "285": {
+        "score": 0,
+        "reason": "The answer provided is incorrect and does not match the expected calculation."
+    },
+    "286": {
+        "score": 1,
+        "reason": "The response provides a specific output value but lacks the actual calculation or formula to support the answer."
+    },
+    "287": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalization, as the answer provided is not the value of $n$ but rather the base of the exponentiation."
+    },
+    "288": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "289": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity."
+    },
+    "290": {
+        "score": 4,
+        "reason": "The response is precise and focused, with only minor extraneous details."
+    },
+    "291": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "292": {
+        "score": 0,
+        "reason": "The response does not provide a solution to the problem, instead, it gives the output of the input."
+    },
+    "293": {
+        "score": 0,
+        "reason": "The answer provided is highly incorrect and does not address the problem."
+    },
+    "294": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying the range of the function $f(x) = x^k$ where $k > 0$ on the interval $[1, \\infty)$ as $[1, \\infty)$."
+    },
+    "295": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity."
+    },
+    "296": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "297": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalization, as it does not provide a clear mathematical explanation or formula for the height after each bounce."
+    },
+    "298": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "299": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "300": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "301": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, as it does not specify the integers being summed or provide a clear calculation method."
+    },
+    "302": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly stating the number of integer solutions to the inequality."
+    },
+    "303": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "304": {
+        "score": 0,
+        "reason": "The response does not provide a clear or accurate method for calculating the average of the solutions, nor does it provide the actual formula or values for the solutions."
+    },
+    "305": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "306": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "307": {
+        "score": 2,
+        "reason": "The response is somewhat precise, as it provides a solution to the equation, but it lacks the full context of the solution process and does not explicitly state that -1 is the smallest value."
+    },
+    "308": {
+        "score": 5,
+        "reason": "The answer is calculated by dividing the total number of zucchinis desired by the number of zucchinis obtained per trade, then multiplying by the number of containers traded per bush, and finally dividing by the number of containers per bush."
+    },
+    "309": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "310": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "311": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "312": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "313": {
+        "score": 2,
+        "reason": "The response is somewhat precise but contains unnecessary generalizations, as it only provides the numerical value of the leading coefficient without explicitly stating the polynomial expression."
+    },
+    "314": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "315": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "316": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "317": {
+        "score": 0,
+        "reason": "The response is highly imprecise and vague, lacking specificity, as it does not provide a unit of measurement for the area of carpet needed."
+    },
+    "318": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "319": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "320": {
+        "score": 0,
+        "reason": "The response provided is highly imprecise and does not address the question about the value of $K$ in the given equation."
+    },
+    "321": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "322": {
+        "score": 4,
+        "reason": "The solution is precise and focused, with all relevant details included, but lacks the final step to solve for x."
+    },
+    "323": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "324": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "325": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise, correctly identifying the interval notation for the solution to the quadratic inequality."
+    },
+    "326": {
+        "score": 5,
+        "reason": "The answer provided is accurate and concise."
+    },
+    "327": {
+        "score": 4,
+        "reason": "The answer provided is precise and focused, with only minor extraneous details."
+    },
+    "metrics": {
+        "mean": 3.91131498470948,
+        "median": 5.0,
+        "std_dev": 1.805892609739022,
+        "min": 0,
+        "max": 5,
+        "count": 327,
+        "invalid_count": 0
+    }
+}
